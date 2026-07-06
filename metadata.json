@@ -1,0 +1,6 @@
+{
+  "name": "NetConfig Arena",
+  "description": "A web-based network configuration training game where users create, share, and solve networking challenges while competing through rankings and scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
